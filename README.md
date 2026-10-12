@@ -7,7 +7,7 @@ caché, y al final vuelve a medir. Nada se cambia sin tu «sí», y antes de toc
 
 ## Instalar
 ```bash
-cp -R ajustar-claude-code ~/.claude/skills/
+git clone https://github.com/leoleo1357/ajustar-claude-code ~/.claude/skills/ajustar-claude-code
 ```
 Abre un chat nuevo de Claude Code y dile: **«ajusta mi Claude»**.
 
